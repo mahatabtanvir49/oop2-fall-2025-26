@@ -1,0 +1,15 @@
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\bin\Debug\net9.0\task4.exe
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\bin\Debug\net9.0\task4.deps.json
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\bin\Debug\net9.0\task4.runtimeconfig.json
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\bin\Debug\net9.0\task4.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\bin\Debug\net9.0\task4.pdb
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\task4.AssemblyInfoInputs.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\task4.AssemblyInfo.cs
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\task4.csproj.CoreCompileInputs.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\task4.sourcelink.json
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\task4.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\refint\task4.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\task4.pdb
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\task4.genruntimeconfig.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\classTask4\task4\obj\Debug\net9.0\ref\task4.dll
