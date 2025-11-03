@@ -1,0 +1,15 @@
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\bin\Debug\net9.0\Calculator.exe
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\bin\Debug\net9.0\Calculator.deps.json
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\bin\Debug\net9.0\Calculator.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\bin\Debug\net9.0\Calculator.pdb
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\Calculator.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\Calculator.pdb
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Project\CalculatorProject\Calculator\obj\Debug\net9.0\ref\Calculator.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tanvir\\Developer\\oop2-fall-2025-26\\Project\\CalculatorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0343EBE8-CA9D-4D4E-A29C-F316729FEB81}|Calculator\\Calculator.csproj|e:\\tanvir\\developer\\oop2-fall-2025-26\\project\\calculatorproject\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0343EBE8-CA9D-4D4E-A29C-F316729FEB81}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\tanvir\\Developer\\oop2-fall-2025-26\\Project\\CalculatorProject\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "E:\\tanvir\\Developer\\oop2-fall-2025-26\\Project\\CalculatorProject\\Calculator\\Program.cs*",
+              "RelativeToolTip": "Calculator\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:13:30.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
