@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tanvir\\Developer\\oop2-fall-2025-26\\Project\\MortgageCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCF79A1-5665-46CB-BDB9-91A0B8A6E3E8}|MortgageCalculator\\MortgageCalculator.csproj|e:\\tanvir\\developer\\oop2-fall-2025-26\\project\\mortgagecalculator\\mortgagecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCF79A1-5665-46CB-BDB9-91A0B8A6E3E8}|MortgageCalculator\\MortgageCalculator.csproj|solutionrelative:mortgagecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\tanvir\\Developer\\oop2-fall-2025-26\\Project\\MortgageCalculator\\MortgageCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "MortgageCalculator\\Program.cs",
+              "ToolTip": "E:\\tanvir\\Developer\\oop2-fall-2025-26\\Project\\MortgageCalculator\\MortgageCalculator\\Program.cs",
+              "RelativeToolTip": "MortgageCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:26:25.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
