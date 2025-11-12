@@ -1,0 +1,15 @@
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.exe
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.deps.json
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.runtimeconfig.json
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.pdb
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.AssemblyInfoInputs.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.AssemblyInfo.cs
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.csproj.CoreCompileInputs.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.sourcelink.json
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\refint\HouseExercise.dll
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.pdb
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.genruntimeconfig.cache
+E:\tanvir\Developer\oop2-fall-2025-26\Lab\HouseExercise\HouseExercise\obj\Debug\net9.0\ref\HouseExercise.dll
